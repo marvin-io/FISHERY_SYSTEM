@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Digital Fishery Records Management System
 
 React.js + Bootstrap (frontend) -> Java Spring Boot (backend) -> MySQL (database), with login.
@@ -63,3 +64,6 @@ Open http://localhost:5173
 - `Communications link failure`: MySQL is not started.
 - Login says it cannot reach the server: the backend is not running.
 - Port 8080 busy: change `server.port` in `application.properties` and `baseURL` in `frontend/src/api.js`.
+=======
+# FISHERY_SYSTEM
+>>>>>>> 98cf5203a440520253566ff10ff8f03d44faef94
